@@ -1,0 +1,9 @@
+C:\git\csharp-projs\windows-service-tutorial\WindowsServiceTutorial\WindowsServiceTutorial\bin\Debug\WindowsServiceTutorial.exe.config
+C:\git\csharp-projs\windows-service-tutorial\WindowsServiceTutorial\WindowsServiceTutorial\bin\Debug\WindowsServiceTutorial.exe
+C:\git\csharp-projs\windows-service-tutorial\WindowsServiceTutorial\WindowsServiceTutorial\bin\Debug\WindowsServiceTutorial.pdb
+C:\git\csharp-projs\windows-service-tutorial\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.csproj.AssemblyReference.cache
+C:\git\csharp-projs\windows-service-tutorial\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.ProjectInstaller.resources
+C:\git\csharp-projs\windows-service-tutorial\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.csproj.GenerateResource.cache
+C:\git\csharp-projs\windows-service-tutorial\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.csproj.CoreCompileInputs.cache
+C:\git\csharp-projs\windows-service-tutorial\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.exe
+C:\git\csharp-projs\windows-service-tutorial\WindowsServiceTutorial\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.pdb
