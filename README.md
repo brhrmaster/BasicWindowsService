@@ -5,7 +5,7 @@ A windows service example using C#
 
 1. Open windows terminal in administrator mode and run the commands below (changing details for your folders):
 ```
-X:\> cd C:\Windows\Microsoft.NET\Framework64\v4.0.30319
+X:\> cd C:\Windows\Microsoft.NET\Framework64\{.NET SDK FOLDER - i.e v4.0.30319}
 ```
 1.1. then
 ```
